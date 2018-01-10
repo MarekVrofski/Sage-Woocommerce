@@ -1,6 +1,6 @@
 ## Woocommerce and Sage 9.0.0-beta.4
 
-With the help of @mtx-z and his helpfull post on the [Roots discource forum](https://discourse.roots.io/t/controller-and-woocommerce/9469/5) and a colleague I created this Github Repository for spreading the love.
+With the help of [@mtx-z](https://github.com/mtx-z) and his helpfull post on the [Roots discource forum](https://discourse.roots.io/t/controller-and-woocommerce/9469/5) and a colleague I created this Github Repository for spreading the love.
 
 This is the way I got Sage 9 and Woocommerce working together, might not be the proper way, but it works.
 
@@ -25,3 +25,7 @@ If there are multiple functions, methods and what not's are in the file, then ea
 #### Issues
 
 Feel free to post issues, I will do my best to answer them correctly.
+
+#### Thanks
+
+Again thanks to [mtx-z](https://github.com/mtx-z) / mtxz on the [Roots discource forum](https://discourse.roots.io/t/controller-and-woocommerce/9469/5)
