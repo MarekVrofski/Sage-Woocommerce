@@ -1,3 +1,11 @@
+# Important note
+[@mtx-z](https://github.com/mtx-z) "personal" project on making this all work again can be found here:
+https://github.com/mtx-z/Sage9-Woocommerce-Integration
+
+We, my colleague and I, changed from `blade` to `twig` templates (with Timber), maybe in te future I will create a new repository on this. For now this will remain here without updates.
+
+Again, most of the credit goes out to [@mtx-z](https://github.com/mtx-z) for starting with this on the [Roots discource forum](https://discourse.roots.io/t/controller-and-woocommerce/9469/5)
+
 ## Woocommerce and Sage 9.0.0-beta.4
 
 With the help of [@mtx-z](https://github.com/mtx-z) and his helpfull post on the [Roots discource forum](https://discourse.roots.io/t/controller-and-woocommerce/9469/5) and a colleague I created this Github Repository for spreading the love.
